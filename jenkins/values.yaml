@@ -2,4 +2,5 @@ service:
   type: NodePort
 persistence:
   enabled: false
+jenkinsUser: kostiantyn
 jenkinsPassword: student
