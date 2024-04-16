@@ -38,7 +38,7 @@ The repository is structured as follows:
 └── trainer # Trainer folder
 ```
 
-
+Test pr deployment
 Links:
 
 * https://codefresh.io/blog/argo-cd-best-practices/
