@@ -16,7 +16,7 @@ spec:
       creationTimestamp: null
       labels:
         app: frontend
-    124 spec:
+    spec:
       containers:
         - image: ghcr.io/eficode-academy/quotes-flask-frontend:release
           name: quotes-flask-frontend
